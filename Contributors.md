@@ -802,3 +802,4 @@
 - [Tim Guenthner](https://github.com/aerotog)
 - [Jhonatan Casale](https://github.com/jhonatancasale)
 - [Kik Tachanok](https://github.com/tachanokkik)
+- [Nitin Gupta](https://github.com/nitin-1926)
